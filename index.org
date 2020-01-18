@@ -44,7 +44,7 @@
    варить не будем, поскольку это долго.
 ** Пример распределения продуктов
    - [[https://github.com/akamaus/2020_january_ski/blob/master/products.py][Поход в январе в Котельнич]]
-   - [[http://static.turclubmai.ru/papers/y2019_kolvitsa/raskladka_wout_alexey.html][Распределение снаряги и продуктов в походе по Колскому в 2019]]
+   - [[http://static.turclubmai.ru/papers/y2019_kolvitsa/raskladka_wout_alexey.html][Распределение снаряги и продуктов в походе по Кольскому в 2019]]
 
 ** [[file:./food_recomendation.org][Рекомендации по закупке и расфасовке продуктов]]
 
@@ -57,7 +57,7 @@
 
 ** Пример распределения снаряжения
    - [[https://github.com/akamaus/2020_january_ski/blob/master/stuff.py][Поход в январе в Котельнич]]
-   - [[http://static.turclubmai.ru/papers/y2019_kolvitsa/raskladka_wout_alexey.html][Распределение снаряги и продуктов в походе по Колскому в 2019]]
+   - [[http://static.turclubmai.ru/papers/y2019_kolvitsa/raskladka_wout_alexey.html][Распределение снаряги и продуктов в походе по Кольскому в 2019]]
 
 * Типичный список личного снаряжения
    | Название                             |                                                | Вес г |
@@ -108,7 +108,7 @@
    | крем для рук и лица                  | обязательно, если нет пемикана                 |       |
    | зеркало                              |                                                |       |
    | скотч                                | обязательно                                    |       |
-   | платырь                              | обязательно                                    |       |
+   | пластырь                             | обязательно                                    |       |
    | зажигалка 2шт                        | обязательно                                    |       |
    | телефон                              | обязательно                                    |       |
    | паспорт + деньги                     | обязательно                                    |       |
