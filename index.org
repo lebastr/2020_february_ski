@@ -39,12 +39,14 @@
    маршрута по пути V6 - V10 - V11 - V9 на 24км
 
 * [[https://docs.google.com/spreadsheets/d/1L5MlobVbbiIDVF-dVz2bikpMZc_z016ya74ixbn1dw8][Таблица распределение продуктов]] (ответственный: Алина)
-** Усилить перекусы
-   7-8 часовые переходы требуют двух перекусов. Полноценный обед
-   варить не будем, поскольку это долго.
-** Пример распределения продуктов
-   - [[https://github.com/akamaus/2020_january_ski/blob/master/products.py][Поход в январе в Котельнич]]
-   - [[http://static.turclubmai.ru/papers/y2019_kolvitsa/raskladka_wout_alexey.html][Распределение снаряги и продуктов в походе по Кольскому в 2019]]
+   [[https://docs.google.com/spreadsheets/d/1L5MlobVbbiIDVF-dVz2bikpMZc_z016ya74ixbn1dw8][Ссылка]] на google таблицу.
+** Замечания
+*** Усилить перекусы
+    7-8 часовые переходы требуют двух перекусов. Полноценный обед
+    варить не будем, поскольку это долго.
+*** Пример распределения продуктов
+    - [[https://github.com/akamaus/2020_january_ski/blob/master/products.py][Поход в январе в Котельнич]]
+    - [[http://static.turclubmai.ru/papers/y2019_kolvitsa/raskladka_wout_alexey.html][Распределение снаряги и продуктов в походе по Кольскому в 2019]]
 
 ** [[file:./food_recomendation.org][Рекомендации по закупке и расфасовке продуктов]]
 
