@@ -19,7 +19,7 @@ _men_str = \
 """
 
 WomanFoodWeightNorm = 2000
-WomanSharedEquipWeightNorm = 1000
+WomanSharedEquipWeightNorm = 1200
 
 Women = P.parse_multiline_str(_women_str)
 Men = P.parse_multiline_str(_men_str)

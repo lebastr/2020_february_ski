@@ -58,4 +58,3 @@ def equipment_planning(SharedEquipment):
     print("\nОстаток: %.0f\n" % (total_weight - cur_weight))
     table = pd.DataFrame(data=tbl)
     return table
-

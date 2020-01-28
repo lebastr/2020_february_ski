@@ -21,8 +21,9 @@ def print_overweight(members, get_weight, man_weight_norm, woman_weight_norm, ca
     return overweight
 
 
-def print_grouped_by_members(table, fname):
-    for a, b in table.groupby(['Кто несет']):
+def print_grouped_by_members(table, fname, print_screen=True):
+    if print_screen:
+        for a, b in table.groupby(['Кто несет']):
             print("Участник: {}, несет: {}".format(a, b['weight'].sum()))
             print(str(b))
             print("\n\n")
